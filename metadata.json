@@ -1,0 +1,5 @@
+{
+  "name": "SmartSpend",
+  "description": "A clean, modern, offline-first expense tracker. Features a dashboard with summary statistics, category breakdowns, detailed history with filters, and CSV export capabilities. Modeled after premium mobile finance apps.",
+  "requestFramePermissions": []
+}
